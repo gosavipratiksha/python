@@ -1,0 +1,19 @@
+a="Pratiksha"
+# a='Pratiksha'
+# a='''Pratiksha'''
+b=78
+c=57.97
+d=True
+e=None
+# printing a variable
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+#printing a type of variables
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
