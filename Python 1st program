@@ -1,0 +1,7 @@
+'''Author : Pratiksha 
+Date : 24 july
+*******COMMENT WITH POUND SYMBOL OR TRIPLE ' 
+'''
+import os
+import flask
+print("Hello world")
