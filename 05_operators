@@ -1,0 +1,37 @@
+#OPERATORS
+#Arithmetic operators
+a=3
+b=8
+print("The value of 3+8 is", 3+8)
+print("The value of 3-8 is", 3-8)
+print("The value of 3*8 is", 3*8)
+print("The value of 3/8 is", 3/8)
+
+#Assignment operators
+a = 34
+a += 12
+a -= 12
+a *= 12
+a /= 12
+print(a)
+
+#Comparision operators
+a = 4>=7
+b = 4<=6
+c = 4>8
+d = 4<9
+e = 6==6
+f = 6!=9
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(f)
+
+#Logical operators
+bool1=True
+bool2=False
+print("The vale of bool1 and bool2 is",(bool1 and bool2))
+print("The vale of bool1 or bool2 is",(bool1 or bool2))
+print("The vale of not bool2 is",(not bool2))
