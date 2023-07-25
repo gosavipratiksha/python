@@ -1,0 +1,8 @@
+a = "3535"
+a = int(a)
+b = 57
+b = str(b)
+# print(type(a))
+print(a)
+print(a + 5)
+print(b) 
