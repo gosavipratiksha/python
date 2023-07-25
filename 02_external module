@@ -1,0 +1,2 @@
+from playsound import playsound
+playsound("C:\\PYTHON\\WhatsApp Audio 2023-07-25 at 16.19.06.mp3")
