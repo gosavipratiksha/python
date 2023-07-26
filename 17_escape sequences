@@ -1,0 +1,2 @@
+story = "This is boy. \n He \tis fun\ny"
+print(story)
