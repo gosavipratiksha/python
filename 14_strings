@@ -1,0 +1,6 @@
+# b = "Pratiksha's" # --> use this if you have single quote in your strings 
+# b = 'Pratiksha"s'
+b = '''Pratiksha's and
+       Pratiksha"s'''
+print(b)
+# print(type(b))
