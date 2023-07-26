@@ -1,0 +1,4 @@
+letter = "Dear Harry, This python course is nice!Thankx!"
+print(letter)
+formatted_letter = "Dear Harry,\n\tThis python course is nice!\nThankx!"
+print(formatted_letter)
