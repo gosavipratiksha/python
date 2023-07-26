@@ -1,0 +1,8 @@
+# print(name[0:]) # is same as name[0:9]
+
+# c = name[-4:-1] # is same as name[1:4]
+# print(c)
+
+name = "Pratiksha"
+d = name[0:3:2]
+print(d)
